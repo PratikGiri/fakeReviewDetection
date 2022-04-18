@@ -12,7 +12,7 @@ https://osf.io/tyue9/
 
 - CODE folder contains:
     1. Amazon_Fake_Review_Detection.ipynb : Jupyter notebook containing the data preprocessing, implementation of different ML and DL models and their evaluations.
-    2. BERT_fake_reviews_detection.ipynb : 
+    2. BERT_fake_reviews_detection.ipynb : Jupyter notebook containing the BERT model implementation and evaluation.
 
 
 - EVALUATIONS folder contains:
